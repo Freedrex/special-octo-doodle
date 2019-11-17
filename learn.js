@@ -1,4 +1,4 @@
-// Example
-var ourName = "freeCodeCamp";
-var ourStr = "Hello, our name is ";
-ourStr + ourName;
+// Examle
+let ourName = "freeCodeCamp"
+let ourStr = "Hello, our name is "
+console.log(ourStr += ourName)
